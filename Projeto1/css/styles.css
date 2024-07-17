@@ -43,7 +43,7 @@ html {
 .biografia-container {
     padding: 25px 0;
     margin: 25px 0;
-    border-top: 1px dashed: #DDD;
+    border-top: 1px dashed #DDD;
     border-bottom: 1px dashed #DDD;
 }
 
@@ -72,6 +72,6 @@ html {
     border-bottom: 1px dashed #DDD;
 }
 
-.curiosidades-container {
-    height: 30px;   
-}
+/* .curiosidades-container {
+    height: 150px;   
+} */
